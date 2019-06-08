@@ -1,6 +1,6 @@
 # Tone-Mapping-Based-on-Multi-scale-Histogram-Synthesis
 
-
+The following images showed tone mapped images with different tone mapping operators. 
 
 
 
@@ -20,11 +20,12 @@
 |               ![](./images/moto/durand.jpg)                |             ![](./images/moto/gu.jpg)              |               ![](./images/moto/paris.jpg)               |       ![](./images/moto/ours.png)        |
 |         ![](./images/nancy_cathedral_2/durand.jpg)         |       ![](./images/nancy_cathedral_2/gu.jpg)       |        ![](./images/nancy_cathedral_2/paris.jpg)         | ![](./images/nancy_cathedral_2/ours.png) |
 |                                                            |                                                    |                                                          |                                          |
-|                                                            |                                                    |                                                          |                                          |
-|                                                            |                                                    |                                                          |                                          |
-|                                                            |                                                    |                                                          |                                          |
-|                                                            |                                                    |                                                          |                                          |
-|                                                            |                                                    |                                                          |                                          |
+|              ![](./images/rend01/durand.jpg)               |            ![](./images/rend01/gu.jpg)             |              ![](./images/rend01/paris.jpg)              |      ![](./images/rend01/ours.png)       |
+|             ![](./images/Rockies3b/durand.jpg)             |           ![](./images/Rockies3b/gu.jpg)           |            ![](./images/Rockies3b/paris.jpg)             |     ![](./images/Rockies3b/ours.png)     |
+|             ![](./images/tinterna/durand.jpg)              |           ![](./images/tinterna/gu.jpg)            |             ![](./images/tinterna/paris.jpg)             |     ![](./images/tinterna/ours.png)      |
+|                ![](./images/tmN/durand.jpg)                |              ![](./images/tmN/gu.jpg)              |               ![](./images/tmN/paris.jpg)                |        ![](./images/tmN/ours.png)        |
+|            ![](./images/Vernicular/durand.jpg)             |          ![](./images/Vernicular/gu.jpg)           |            ![](./images/Vernicular/paris.jpg)            |    ![](./images/Vernicular/ours.png)     |
+|            ![](./images/vinesunset/durand.jpg)             |          ![](./images/vinesunset/gu.jpg)           |            ![](./images/vinesunset/paris.jpg)            |    ![](./images/vinesunset/ours.png)     |
 
 
 
