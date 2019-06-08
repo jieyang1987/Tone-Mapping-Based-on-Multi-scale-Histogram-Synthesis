@@ -19,7 +19,7 @@
 |              ![](images/Moraine2/durand.jpg)               |            ![](images/Moraine2/gu.jpg)             |              ![](images/Moraine2/paris.jpg)              |      ![](images/Moraine2/ours.png)       |
 |               ![](./images/moto/durand.jpg)                |             ![](./images/moto/gu.jpg)              |               ![](./images/moto/paris.jpg)               |       ![](./images/moto/ours.png)        |
 |         ![](./images/nancy_cathedral_2/durand.jpg)         |       ![](./images/nancy_cathedral_2/gu.jpg)       |        ![](./images/nancy_cathedral_2/paris.jpg)         | ![](./images/nancy_cathedral_2/ours.png) |
-|               ![](./images/orion/durand.jpg)               |             ![](./images/orion/gu.jpg)             |              ![](./images/orion/paris.jpg)               |       ![](./images/orion/ours.png)       |
+|                                                            |                                                    |                                                          |                                          |
 |                                                            |                                                    |                                                          |                                          |
 |                                                            |                                                    |                                                          |                                          |
 |                                                            |                                                    |                                                          |                                          |
