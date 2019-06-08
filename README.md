@@ -4,9 +4,9 @@
 
 
 
-| ![Durand](./images/AtriumMorning/AtriumMorning_durand.jpg) | ![Gu](./images/AtriumMorning/AtriumMorning_gu.jpg) |
+| ![Durand](./images/AtriumMorning/AtriumMorning_durand.jpg) | ![Gu](./images/AtriumMorning/AtriumMorning_Gu.jpg) |
 | :--------------------------------------------------------: | :------------------------------------------------: |
-|  ![Paris](./images/AtriumMorning/AtriumMorning_paris.jpg)  |      ![Ours](./images/AtriumMorning/ours.png)      |
+|  ![Paris](./images/AtriumMorning/AtriumMorning_paris.jpg)  |      ![Ours](./images/AtriumMorning/Ours.png)      |
 
 
 
