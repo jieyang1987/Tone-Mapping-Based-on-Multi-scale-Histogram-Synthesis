@@ -1,6 +1,15 @@
 # Tone-Mapping-Based-on-Multi-scale-Histogram-Synthesis
 
-The following images showed tone mapped images with different tone mapping operators. 
+The following images showed tone mapped images with different tone mapping operators. The operators are: 
+
+- Durand: Fast bilateral filtering for the display of high-dynamic-range images
+- Gu: Local edge-preserving multiscale decomposition for high dynamic range image tone mapping
+- Paris: Local Laplacian filters: edge-aware image processing with a Laplacian pyramid
+- the proposed
+- Mantiuk: Display adaptive tone mapping. ACM Transactions on Graphics
+- 
+
+
 
 
 
@@ -19,7 +28,7 @@ The following images showed tone mapped images with different tone mapping opera
 |              ![](images/Moraine2/durand.jpg)               |            ![](images/Moraine2/gu.jpg)             |              ![](images/Moraine2/paris.jpg)              |      ![](images/Moraine2/ours.png)       |
 |               ![](./images/moto/durand.jpg)                |             ![](./images/moto/gu.jpg)              |               ![](./images/moto/paris.jpg)               |       ![](./images/moto/ours.png)        |
 |         ![](./images/nancy_cathedral_2/durand.jpg)         |       ![](./images/nancy_cathedral_2/gu.jpg)       |        ![](./images/nancy_cathedral_2/paris.jpg)         | ![](./images/nancy_cathedral_2/ours.png) |
-|                                                            |                                                    |                                                          |                                          |
+|               ![](./images/orion/durand.jpg)               |             ![](./images/orion/gu.jpg)             |              ![](./images/orion/paris.jpg)               |       ![](./images/orion/ours.png)       |
 |              ![](./images/rend01/durand.jpg)               |            ![](./images/rend01/gu.jpg)             |              ![](./images/rend01/paris.jpg)              |      ![](./images/rend01/ours.png)       |
 |             ![](./images/Rockies3b/durand.jpg)             |           ![](./images/Rockies3b/gu.jpg)           |            ![](./images/Rockies3b/paris.jpg)             |     ![](./images/Rockies3b/ours.png)     |
 |             ![](./images/tinterna/durand.jpg)              |           ![](./images/tinterna/gu.jpg)            |             ![](./images/tinterna/paris.jpg)             |     ![](./images/tinterna/ours.png)      |
