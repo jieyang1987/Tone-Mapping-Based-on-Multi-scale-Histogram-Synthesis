@@ -29,7 +29,7 @@ The corresponding HDR file can be downloaded [here](./HDR_files)
 |             ![](./images/crowfoot/durand.jpg)              |           ![](./images/crowfoot/gu.jpg)            |             ![](./images/crowfoot/paris.jpg)             |           ![](./images/crowfoot/mantiuk.jpg)            |     ![](./images/crowfoot/icam06.jpg)      |     ![](./images/crowfoot/ours.png)      |
 |           ![](./images/designCenter/durand.jpg)            |         ![](./images/designCenter/gu.jpg)          |           ![](./images/designCenter/paris.jpg)           |         ![](./images/designCenter/mantiuk.jpg)          |   ![](./images/designCenter/icam06.jpg)    |   ![](./images/designCenter/ours.png)    |
 |              ![](./images/garage/durand.jpg)               |            ![](./images/garage/gu.jpg)             |              ![](./images/garage/paris.jpg)              |            ![](./images/garage/mantiuk.jpg)             |      ![](./images/garage/icam06.jpg)       |      ![](./images/garage/ours.png)       |
-|               ![](images\groveD\durand.jpg)                |             ![](images\groveD\gu.jpg)              |               ![](images\groveD\paris.jpg)               |             ![](images\groveD\mantiuk.jpg)              |       ![](images\groveD\icam06.jpg)        |       ![](images\groveD\ours.png)        |
+|              ![](./images/groveD/durand.jpg)               |            ![](./images/groveD/gu.jpg)             |              ![](./images/groveD/paris.jpg)              |            ![](./images/groveD/mantiuk.jpg)             |      ![](./images/groveD./icam06.jpg)      |      ![](./images/groveD/ours.png)       |
 |             ![](./images/memorial/durand.jpg)              |           ![](./images/memorial/gu.jpg)            |             ![](./images/memorial/paris.jpg)             |           ![](./images/memorial/mantiuk.jpg)            |     ![](./images/memorial/icam06.jpg)      |     ![](./images/memorial/ours.png)      |
 |              ![](images/Moraine1/durand.jpg)               |            ![](images/Moraine1/gu.jpg)             |              ![](images/Moraine1/paris.jpg)              |            ![](images/Moraine1/mantiuk.jpg)             |      ![](images/Moraine1/icam06.jpg)       |      ![](images/Moraine1/ours.png)       |
 |              ![](images/Moraine2/durand.jpg)               |            ![](images/Moraine2/gu.jpg)             |              ![](images/Moraine2/paris.jpg)              |            ![](images/Moraine2/mantiuk.jpg)             |      ![](images/Moraine2/icam06.jpg)       |      ![](images/Moraine2/ours.png)       |
@@ -42,14 +42,3 @@ The corresponding HDR file can be downloaded [here](./HDR_files)
 |                ![](./images/tmN/durand.jpg)                |              ![](./images/tmN/gu.jpg)              |               ![](./images/tmN/paris.jpg)                |              ![](./images/tmN/mantiuk.jpg)              |        ![](./images/tmN/icam06.jpg)        |        ![](./images/tmN/ours.png)        |
 |            ![](./images/Vernicular/durand.jpg)             |          ![](./images/Vernicular/gu.jpg)           |            ![](./images/Vernicular/paris.jpg)            |          ![](./images/Vernicular/mantiuk.jpg)           |    ![](./images/Vernicular/icam06.jpg)     |    ![](./images/Vernicular/ours.png)     |
 |            ![](./images/vinesunset/durand.jpg)             |          ![](./images/vinesunset/gu.jpg)           |            ![](./images/vinesunset/paris.jpg)            |          ![](./images/vinesunset/mantiuk.jpg)           |    ![](./images/vinesunset/icam06.jpg)     |    ![](./images/vinesunset/ours.png)     |
-
-
-
-
-
-
-
-
-
-
-
