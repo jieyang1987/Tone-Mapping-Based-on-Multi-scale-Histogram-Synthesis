@@ -11,6 +11,10 @@ The following image-table show tone mapped images with different tone mapping op
 
 
 
+The corresponding HDR file can be downloaded [here](./hdrfiles/) in each folder
+
+
+
 |                         Durand TMO                         |                       Gu TMO                       |                        Paris TMO                         |                       Mantiuk TMO                       |                 iCAM06 TMO                 |                 Proposed                 |
 | :--------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------: | :--------------------------------------: |
 | ![Durand](./images/AtriumMorning/AtriumMorning_durand.jpg) | ![Gu](./images/AtriumMorning/AtriumMorning_Gu.jpg) | ![Paris](./images/AtriumMorning/AtriumMorning_paris.jpg) | ![](./images/AtriumMorning/AtriumMorning_mantiuk08.jpg) |   ![](./images/AtriumMorning/icam06.jpg)   | ![Ours](./images/AtriumMorning/Ours.png) |
