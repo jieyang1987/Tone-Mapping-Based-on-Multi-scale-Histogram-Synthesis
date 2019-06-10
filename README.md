@@ -2,7 +2,7 @@
 
 **MSHIST** is a wide dynamic range tone mapping algorithm developed by [**I2Sense Lab**](<https://www.ucalgary.ca/i2sense/>) of [**University of Calgary**](<https://www.ucalgary.ca/>).
 
-### Comparison Results
+### Comparison with others
 
 The following image-table show tone mapped images with different tone mapping operators. The operators are: 
 
