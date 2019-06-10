@@ -1,8 +1,10 @@
 # Tone Mapping Based on Multi-scale Histogram Synthesis
 
-**MSHIST** is a wide dynamic range tone mapping algorithm developed by [**I2Sense Lab**](<https://www.ucalgary.ca/i2sense/>) of [**University of Calgary**](<https://www.ucalgary.ca/>).
+### Introduction
 
-### Comparison with others
+**MSHIST** is a wide dynamic range tone mapping algorithm developed by [**I2Sense Lab**](<https://www.ucalgary.ca/i2sense/>) of [**University of Calgary**](<https://www.ucalgary.ca/>). our algorithm uses functions built upon different scales to tone map pixels to different values. Functions of large scales are used to maintain image brightness consistency and functions of small scales are used to preserve local detail and contrast. An efficient method using local variance has been proposed to fuse the values of different scales and to remove artifacts. The algorithm utilizes integral images and integral histograms to reduce computation complexity and processing time. Experimental results show that the proposed algorithm can generate high brightness, good contrast and appealing images that surpass the performance of many state-of-the-art tone mapping algorithms.
+
+### HDR image rendering examples and comparison 
 
 The following image-table show tone mapped images with different tone mapping operators. The operators are: 
 
