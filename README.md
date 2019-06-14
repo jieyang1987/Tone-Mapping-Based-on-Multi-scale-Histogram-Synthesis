@@ -70,6 +70,24 @@ Email: orly dot yadid-pecht at ucalgary dot ca; yangjie at westlake dot edu dot 
 
 
 
-### Publication 
+### Citation and Reference
 
-Coming soon
+This work is first published in the following conference in 2017 IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)
+
+[Multi-Scale histogram tone mapping algorithm for display of wide dynamic range images](<https://ieeexplore.ieee.org/abstract/document/8313070/>)
+
+If you find this work useful for your research please cite:
+
+
+
+@INPROCEEDINGS{8313070, 
+author={J. {Yang} and A. {Hore} and U. {Shahnovich} and O. {Yadid-Pecht}}, 
+booktitle={2017 IEEE 7th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)}, 
+title={Multi-Scale histogram tone mapping algorithm for display of wide dynamic range images}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={1-5}, 
+doi={10.1109/CAMSAP.2017.8313070}, 
+ISSN={}, 
+month={Dec},}
