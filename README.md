@@ -6,7 +6,7 @@
 
 ### HDR image rendering examples and comparison 
 
-The following image-table show tone mapped images with different tone mapping operators. The operators are: 
+The following image-table shows tone mapped images with different tone mapping operators. The operators are: 
 
 - **Durand TMO**: Durand, Frédo, and Julie Dorsey. "Fast bilateral filtering for the display of high-dynamic-range images." *ACM transactions on graphics (TOG)*. Vol. 21. No. 3. ACM, 2002.
 - **Gu TMO**:   Gu, Bo, et al. "Local edge-preserving multiscale decomposition for high dynamic range image tone mapping." *IEEE Transactions on image Processing* 22.1 (2012): 70-79.
